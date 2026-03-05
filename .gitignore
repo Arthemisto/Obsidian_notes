@@ -1,0 +1,8 @@
+cat > .gitignore << 'EOF'
+# Windows junk
+desktop.ini
+Thumbs.db
+
+# OS junk
+.DS_Store
+EOF
